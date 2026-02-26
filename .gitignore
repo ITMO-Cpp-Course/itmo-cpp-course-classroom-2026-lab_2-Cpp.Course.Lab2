@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,clion+all,c++,cmake,visualstudio,xcode,executable,ninja
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,clion+all,c++,cmake,visualstudio,xcode,executable,ninja
 
+CMakeSettings.json
+
 ### C++ ###
 # Prerequisites
 *.d
@@ -45,6 +47,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**
 
 # AWS User-specific
 .idea/**/aws.xml
