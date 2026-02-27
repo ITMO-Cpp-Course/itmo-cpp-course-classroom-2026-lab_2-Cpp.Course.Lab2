@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,clion+all,c++,cmake,visualstudio,xcode,executable,ninja
 
 CMakeSettings.json
+.vscode/**
 
 ### C++ ###
 # Prerequisites
